@@ -9,7 +9,7 @@ Aplicação desenvolvida, em Angular, durante o curso "Curso Web Moderno Complet
 <h2 align="center">🔨 Funcionalidades do sistema</h2>   
 
 <p align="center">
- <img width="60%" src="aplicacao_angular.gif">
+ <img width="80%" src="aplicacao_angular.gif">
 </p>
 
 
